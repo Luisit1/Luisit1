@@ -4,4 +4,4 @@ git add gmail
 git commit -m "primer commit" 
 git branch -M main 
 https://github.com/Luisit1/.git-blame-ignore-revs-gmail.com-conniegto-gmail.com-converted-all-javascript-to-typescript.git
- git push -u origin main
+ git push
