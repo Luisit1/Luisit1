@@ -1,7 +1,7 @@
 echo "# .git-blame-ignore-revs-gmail.com-conniegto23@gmail.com-converted-all-javascript-to-typescript" >> README.md 
 git init 
-git add README.md 
+git add gmail
 git commit -m "primer commit" 
 git branch -M main 
-git remote add origin https://github.com/Luisit1/.git-blame-ignore-revs-gmail.com-conniegto-gmail.com-converted-all-javascript-to-typescript.git
+https://github.com/Luisit1/.git-blame-ignore-revs-gmail.com-conniegto-gmail.com-converted-all-javascript-to-typescript.git
  git push -u origin main
